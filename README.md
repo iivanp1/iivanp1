@@ -4,7 +4,7 @@
 
 </div>
 
-<h1 align="center">iivanp1</h1>
+<h1 align="center">SOY IVANP1</h1>
 <h3 align="center">🥋 The Phenomenal One · 🎮 Estilo Vegetta777, sin miedo al survival</h3>
 <p align="center"><b>👑 ACKNOWLEDGE ME 👑</b></p>
 
@@ -54,11 +54,13 @@ Ustedes siguen debatiendo quién es el mejor... yo ya lo demostré. Ahora recon�
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=iivanp1&show_icons=true&hide_border=true&title_color=00A8E8&icon_color=00A8E8&text_color=FFFFFF&bg_color=0D1117)
+![Profile details](https://raw.githubusercontent.com/iivanp1/iivanp1/main/profile-summary-card-output/github_dark/0-profile-details.svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iivanp1&layout=compact&hide_border=true&title_color=00A8E8&text_color=FFFFFF&bg_color=0D1117)
+![Repos per language](https://raw.githubusercontent.com/iivanp1/iivanp1/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=iivanp1&hide_border=true&background=0D1117&stroke=00A8E8&ring=00A8E8&fire=00A8E8&currStreakLabel=00A8E8&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF)
+![Most commit language](https://raw.githubusercontent.com/iivanp1/iivanp1/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)
+
+![Stats](https://raw.githubusercontent.com/iivanp1/iivanp1/main/profile-summary-card-output/github_dark/3-stats.svg)
 
 </div>
 
