@@ -4,7 +4,7 @@
 
 </div>
 
-<h1 align="center">SOY IVANP1</h1>
+<h1 align="center">iivanp1</h1>
 <h3 align="center">🥋 The Phenomenal One · 🎮 Estilo Vegetta777, sin miedo al survival</h3>
 <p align="center"><b>👑 ACKNOWLEDGE ME 👑</b></p>
 
